@@ -2,7 +2,7 @@ package main
 
 import "C"
 
-// export Add
+//export Add
 func Add(a, b int) int {
 	return a + b
 }
