@@ -15,3 +15,5 @@ $ ls -la bin/
 -rw-r--r--  1 javi  staff     1520  3 jun 16:28 library.h
 -rw-r--r--  1 javi  staff  1461064  3 jun 16:28 library.so
 ```
+> These files for default are called `library`
+
