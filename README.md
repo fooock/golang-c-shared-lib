@@ -1,4 +1,6 @@
 # C shared libray with Golang
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Sample project to generate a C sharid library from a go project. To generate the `header` file and the `.so` just 
 execute the task
 
