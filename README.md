@@ -17,3 +17,8 @@ $ ls -la bin/
 ```
 > These files for default are called `library`
 
+You can change the `.h` and `.so` names using the `NAME` variable. Imagine that you want to name the files `customname`. Then you execute:
+
+```sh
+$ make build NAME=customname
+````
